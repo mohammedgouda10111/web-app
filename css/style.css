@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+h2{
+    color: burlywood ;
+}
+#productBtn{
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#productContainer{    
+    border: 2px solid rgba(120, 98, 98, 0.473);
+    text-align: center;
+    padding: 5px;
+    color: burlywood;
+    
+}
